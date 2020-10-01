@@ -1,2 +1,2 @@
-# HelloWorld
-First Git project
+# Hello World
+First Github project
